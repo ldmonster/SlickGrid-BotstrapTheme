@@ -73,7 +73,7 @@ classes should alter those!
   height: 5px;
   margin-left: 4px;
   margin-top: 6px;
-  float: left;
+  /*float: left*/;
 }
 
 .slick-sort-indicator-numbered {
@@ -83,7 +83,7 @@ classes should alter those!
   margin-left: 4px;
   margin-top: 0;
   line-height: 20px;
-  float: left;
+  /*float: left;*/
   font-family: Arial;
   font-style: normal;
   font-weight: bold;
@@ -228,7 +228,8 @@ classes should alter those!
 }
 
 .slick-top-panel {
-  width: 10000px
+  height: 40px;
+  width: 100%;
 }
 
 .slick-viewport {
