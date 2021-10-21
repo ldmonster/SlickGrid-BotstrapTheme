@@ -5,7 +5,7 @@ Hope you will find it usefull.
 
 I'm not a designer.
 
-For a css, which was a begin of my path, you can thank **[this guy]https://github.com/reebalazs/SlickGrid-bootstrap**
+For a css, which was a begin of my path, you can thank **[this guy](https://github.com/reebalazs/SlickGrid-bootstrap)**
 This theme works with original SlickGrid.
 
 
